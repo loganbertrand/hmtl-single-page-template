@@ -1,2 +1,2 @@
 # hmtl-single-page-template
-A Single Page Template using the basics of Web Development
+A Single Page Portfolio Template using the basics of Web Development
